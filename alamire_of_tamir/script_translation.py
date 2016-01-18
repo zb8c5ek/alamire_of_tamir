@@ -16,12 +16,19 @@ LinkedIn: https://be.linkedin.com/in/xuanlichen
 """
 
 from read_write_init import *
+import os
 
-filename = '/Users/Xuanli-iMac/Develop/alamire/data/B-BrusSG_9424_frontcover_forTranscription.annotation'
-output_filename = '/Users/Xuanli-iMac/Develop/alamire/data/B-BrusSG_9424_frontcover_transcripted.xml'
 
-ann = AnnotationPage()
-ann.read_annotation_file(filename)
-s = ann.process_modern()
+def script_transcription(
+        annotation_file='/users/visics/xchen/project_Alamire/alamire/dots_test.annotation',
+        out_file=None):
+    if out_file is None:
+        stem, ext = os.path.splitext(annotation_file)
+        out_file = stem + 'translated.xml'
 
-s.write('xml', output_filename)
+    ann = AnnotationPage()
+    ann.read_annotation_file(annotation_file)
+    s = ann.process_modern()
+
+    s.write('xml', out_file)
+    print "File Translation Accomplished! Results saved in: %s " % out_file
