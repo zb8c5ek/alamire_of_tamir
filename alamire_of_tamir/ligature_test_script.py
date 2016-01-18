@@ -15,6 +15,8 @@ Group website: http://www.esat.kuleuven.be/psi/visics
 LinkedIn: https://be.linkedin.com/in/xuanlichen
 """
 from read_write_init import *
+
+# The filename folder may vary
 filename = '/users/visics/xchen/project_Alamire/alamire/dots_test.annotation'
 ann = AnnotationPage()
 ann.read_annotation_file(filename)
