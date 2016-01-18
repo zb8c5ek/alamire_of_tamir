@@ -203,7 +203,7 @@ class AnnotationObject(object):
         @:
         """
         # FD
-        print "Ligature Processing!"
+        # print "Ligature Processing!"
 
         temp = []
 
@@ -219,15 +219,15 @@ class AnnotationObject(object):
             else:
                 temp.append(c)
         # FD
-        print "The temp information is: "
-        for element in temp:
-            print element
-        print "---------------------"
+        # print "The temp information is: "
+        # for element in temp:
+        #     print element
+        # print "---------------------"
         # Note text position inside the ligature
         if len(self.text_position) != len(temp):
             raise Exception("Length Check Failure.")
-        else:
-            print "Length Check Pass!"
+        # else:
+        #     print "Length Check Pass!"
 
         # Beginning upward stem flag
         if temp[0][0] == 'u':
@@ -239,13 +239,13 @@ class AnnotationObject(object):
         if len(temp) == 2:
 
             # FD
-            print "Category: Length 2 Ligature"
+            # print "Category: Length 2 Ligature"
 
             if beginning_upward_flag:
 
                 # FD
-                print "The text position information are:"
-                print self.text_position[0], self.text_position[1], clef_position, clef_sign
+                # print "The text position information are:"
+                # print self.text_position[0], self.text_position[1], clef_position, clef_sign
                 note_1 = m21.note.Note(get_general_text_position(text_position=self.text_position[0],
                                                                  clef_position=clef_position, clef_sign=clef_sign))
                 note_2 = m21.note.Note(get_general_text_position(text_position=self.text_position[1],
@@ -267,7 +267,7 @@ class AnnotationObject(object):
 
             elif ('O' in temp[0]) & ('O' in temp[1]):
                 # FD
-                print "In OO class"
+                # print "In OO class"
                 note_1 = m21.note.Note(get_general_text_position(text_position=self.text_position[0],
                                                                  clef_position=clef_position, clef_sign=clef_sign))
                 note_2 = m21.note.Note(get_general_text_position(text_position=self.text_position[1],
@@ -446,7 +446,7 @@ class AnnotationPage(object):
             count_line += 1
             # print count_line, ' out of ', len(d)
 
-        print 'File Processing Accomplished: %s' % filename
+        print 'File Loaded and Parsed: %s' % filename
 
     def write_annotation_file(self, filename):
         """
@@ -532,8 +532,10 @@ class AnnotationPage(object):
             channel_chosen = self.available_channel_check()
 
         s = m21.stream.Stream()
-        print 'The total number of elements are: %d' % len(self.contents), \
-            ' ,distributed in %d channels.' % len(channel_chosen)
+        print "Now Processing. Do NOT Worry. I am fast ;-)"
+        #
+        # print 'The total number of elements are: %d' % len(self.contents), \
+        #     ' ,distributed in %d channels.' % len(channel_chosen)
 
         accidental_list = []
 
@@ -688,7 +690,7 @@ class AnnotationPage(object):
                             now_part.append(last_note)
 
                         elif x.label_symbol.lower() == 'Ligature'.lower():
-                            print 'Ligature detected!'
+                            # print 'Ligature detected!'
                             nl = x.ligature_imperfect_parse(clef_position=now_clef.line, clef_sign=now_clef.sign)
                             for temp_note in nl:
                                 now_part.append(temp_note)
