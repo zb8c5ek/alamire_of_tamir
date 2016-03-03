@@ -879,3 +879,8 @@ class AnnotationPage(object):
         self.stream = s
 
         return s
+
+
+def local_ligature_data_collection(folder = "/users/visics/xchen/project_Alamire/transcriptionData" ):
+    pass
+
