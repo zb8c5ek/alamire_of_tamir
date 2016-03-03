@@ -15,8 +15,9 @@ Group website: http://www.esat.kuleuven.be/psi/visics
 LinkedIn: https://be.linkedin.com/in/xuanlichen
 """
 
-from read_write_init import *
 import os
+
+from read_write_init import *
 
 
 def script_transcription(

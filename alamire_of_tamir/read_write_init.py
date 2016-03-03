@@ -39,6 +39,7 @@ def get_general_text_position(text_position, clef_position=4, clef_sign='F'):
 
     return table[offset_note] + str(octave_note)
 
+
 class AnnotationObject(object):
     """
     This the annotation object, aiming to read in the annoatation file/ pre
