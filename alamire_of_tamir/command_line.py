@@ -18,4 +18,5 @@ from . import transcribe_script
 
 
 def main(annotation_filename, output_filename=None):
+    print("Present version is 0.11!")
     transcribe_script(annotation_filename=annotation_filename, output_filename=output_filename)

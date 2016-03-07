@@ -17,14 +17,14 @@ LinkedIn: https://be.linkedin.com/in/xuanlichen
 from setuptools import setup
 
 setup(name='alamire_of_tamir',
-      version='0.1',
+      version='0.11',
       description='Translate the manuscripts',
       # long_description=readme(),
-      classifiers=[
-          'License :: OSI Approved :: GNU License',
-          'Programming Language :: Python :: 2.7',
-          'Topic :: Computer Vision :: Manuscript Transcription',
-      ],
+      # classifiers=[
+      #     'License :: OSI Approved :: GNU License',
+      #     'Programming Language :: Python :: 2.7',
+      #     'Topic :: Computer Vision :: Manuscript Transcription',
+      # ],
       keywords='Manuscript Transcription, Alamire, TAMIR',
       url='https://github.com/zb8c5ek/alamire_of_tamir.git',
       author='Xuanli Chen',
