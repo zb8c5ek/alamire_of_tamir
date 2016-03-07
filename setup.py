@@ -36,6 +36,7 @@ setup(name='alamire_of_tamir',
       ],
       test_suite='nose.collector',
       tests_require=['nose'],
+          # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
       entry_points={
           'console_scripts': ['alamire_translation=alamire_of_tamir.command_line:main'],
       },
