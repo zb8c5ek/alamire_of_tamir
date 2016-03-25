@@ -1,12 +1,5 @@
-__author__ = 'Xuanli CHEN'
-
-"""
-    PhD Student at VISICS, KU Leuven
-    xuanli.chen@esat.kuleuven.be
-"""
 
 from midiutil.MidiFile import MIDIFile
-
 
 class MidiObject(object):
     """

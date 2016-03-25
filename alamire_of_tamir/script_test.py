@@ -1,10 +1,3 @@
-__author__ = 'Xuanli CHEN'
-
-"""
-    PhD Student at VISICS, KU Leuven
-    xuanli.chen@esat.kuleuven.be
-"""
-
 import music21 as m21
 
 s = m21.stream.Stream()

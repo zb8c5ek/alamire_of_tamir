@@ -1,10 +1,3 @@
-__author__ = 'Xuanli CHEN'
-
-"""
-    PhD Student at VISICS, KU Leuven
-    xuanli.chen@esat.kuleuven.be
-"""
-
 import music21 as m21
 import numpy as np
 import xml.etree.cElementTree as ET
