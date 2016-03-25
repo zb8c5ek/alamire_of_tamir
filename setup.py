@@ -13,7 +13,7 @@ setup(name='alamire_of_tamir',
       url='https://github.com/zb8c5ek/alamire_of_tamir.git',
       author='Xuanli Chen',
       author_email='xuanli.chen@esat.kuleuven.be',
-      license='MIT',
+      license='GNU',
       packages=['alamire_of_tamir'],
       install_requires=[
           'music21', 'numpy'
