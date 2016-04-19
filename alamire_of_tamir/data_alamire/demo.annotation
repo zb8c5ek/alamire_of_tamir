@@ -1,0 +1,1155 @@
+########## NEW FILE ##########
+file: /path/to/annotation/file.annotation
+
+object: 1
+bbox: 383,383,19,54
+channel: 1
+predicted: clef_c
+text_position: 4
+
+object: 3
+bbox: 417,373,19,39
+channel: 1
+predicted: note_breve
+text_position: 3.5
+
+object: 4
+bbox: 454,329,40,96
+channel: 1
+predicted: time_sig_Imincut
+text_position: -1
+
+object: 5
+bbox: 518,348,15,29
+channel: 1
+predicted: rest_semibreve
+text_position: -1
+
+object: 6
+bbox: 551,343,36,42
+channel: 1
+predicted: note_semibreve
+text_position: 4.5
+
+object: 7
+bbox: 600,343,38,95
+channel: 1
+predicted: note_minim_down
+text_position: 4.5
+
+object: 8
+bbox: 636,352,18,20
+channel: 1
+predicted: point
+text_position: -1
+
+object: 9
+bbox: 653,354,33,105
+channel: 1
+predicted: note_semiminim_down
+text_position: 4
+
+object: 10
+bbox: 696,322,32,99
+channel: 1
+predicted: note_minim_up
+text_position: 3
+
+object: 11
+bbox: 740,366,36,43
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 12
+bbox: 783,354,33,97
+channel: 1
+predicted: note_minim_down
+text_position: 4
+
+object: 13
+bbox: 810,357,18,20
+channel: 1
+predicted: point
+text_position: -1
+
+object: 14
+bbox: 824,369,38,91
+channel: 1
+predicted: note_semiminim_down
+text_position: 3.5
+
+object: 15
+bbox: 866,330,31,93
+channel: 1
+predicted: note_semiminim_up
+text_position: 3
+
+object: 16
+bbox: 903,337,35,98
+channel: 1
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 17
+bbox: 943,347,32,102
+channel: 1
+predicted: note_minim_up
+text_position: 2
+
+object: 18
+bbox: 970,407,18,19
+channel: 1
+predicted: point
+text_position: -1
+
+object: 19
+bbox: 992,374,30,101
+channel: 1
+predicted: note_semiminim_up
+text_position: 1
+
+object: 20
+bbox: 1030,361,37,98
+channel: 1
+predicted: note_minim_up
+text_position: 1.5
+
+object: 21
+bbox: 1077,347,33,104
+channel: 1
+predicted: note_minim_up
+text_position: 2
+
+object: 22
+bbox: 1127,359,37,105
+channel: 1
+predicted: note_minim_up
+text_position: 1.5
+
+object: 23
+bbox: 1159,432,17,20
+channel: 1
+predicted: point
+text_position: -1
+
+object: 24
+bbox: 1174,376,33,106
+channel: 1
+predicted: note_semiminim_up
+text_position: 1
+
+object: 25
+bbox: 1210,363,37,102
+channel: 1
+predicted: note_minim_up
+text_position: 1.5
+
+object: 26
+bbox: 1253,408,33,46
+channel: 1
+predicted: note_semibreve
+text_position: 2
+
+object: 27
+bbox: 1295,332,39,108
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 28
+bbox: 1357.33,388,82.67,85.3333
+channel: 1
+predicted: custos
+text_position: 1
+
+object: 32
+bbox: 377,565,31,117
+channel: 1
+predicted: clef_c
+text_position: 3
+
+object: 33
+bbox: 409,565,18,89
+channel: 1
+predicted: flat
+text_position: 2.5
+
+object: 35
+bbox: 462,590,32,106
+channel: 1
+predicted: note_semiminim_up
+text_position: 1
+
+object: 36
+bbox: 499,576,37,106
+channel: 1
+predicted: note_semiminim_up
+text_position: 1.5
+
+object: 37
+bbox: 541,562,32,106
+channel: 1
+predicted: note_semiminim_up
+text_position: 2
+
+object: 38
+bbox: 577,560,35,93
+channel: 1
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 39
+bbox: 626,635,36,44
+channel: 1
+predicted: note_semibreve
+text_position: 1.5
+
+object: 40
+bbox: 668,537,33,105
+channel: 1
+predicted: note_minim_up
+text_position: 3
+
+object: 41
+bbox: 695,595,16,19
+channel: 1
+predicted: point
+text_position: -1
+
+object: 42
+bbox: 705,546,37,106
+channel: 1
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 43
+bbox: 746,559,30,104
+channel: 1
+predicted: note_semiminim_up
+text_position: 2
+
+object: 44
+bbox: 778,573,37,102
+channel: 1
+predicted: note_semiminim_up
+text_position: 1.5
+
+object: 45
+bbox: 823,589,30,99
+channel: 1
+predicted: note_minim_up
+text_position: 1
+
+object: 46
+bbox: 860,615,32,47
+channel: 1
+predicted: note_semibreve
+text_position: 2
+
+object: 47
+bbox: 898,568,38,106
+channel: 1
+predicted: note_minim_up
+text_position: 1.5
+
+object: 48
+bbox: 950,589,33,109
+channel: 1
+predicted: note_minim_down
+text_position: 3
+
+object: 49
+bbox: 979,591,18,21
+channel: 1
+predicted: point
+text_position: -1
+
+object: 50
+bbox: 997,577,40,104
+channel: 1
+predicted: note_semiminim_down
+text_position: 3.5
+
+object: 51
+bbox: 1044,564,33,110
+channel: 1
+predicted: note_minim_down
+text_position: 4
+
+object: 52
+bbox: 1082,565,32,101
+channel: 1
+predicted: note_minim_up
+text_position: 2
+
+object: 53
+bbox: 1119,545,39,106
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 54
+bbox: 1165,555,35,110
+channel: 1
+predicted: note_minim_up
+text_position: 2
+
+object: 55
+bbox: 1230,584,36,44
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 56
+bbox: 1277,599,32,41
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 57
+bbox: 1318,544,38,109
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 58
+bbox: 1369.33,550.667,76.0033,86.6663
+channel: 1
+predicted: custos
+text_position: 3
+
+object: 62
+bbox: 96,789,30,107
+channel: 1
+predicted: clef_c
+text_position: 3
+
+object: 63
+bbox: 124,784,23,85
+channel: 1
+predicted: flat
+text_position: 2.5
+
+object: 64
+bbox: 181,816,34,38
+channel: 1
+predicted: note_breve
+text_position: 3
+
+object: 65
+bbox: 233,829,16,26
+channel: 1
+predicted: rest_semibreve
+text_position: -1
+
+object: 66
+bbox: 265,812,34,50
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 67
+bbox: 307,800,38,47
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 68
+bbox: 354,812,33,49
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 69
+bbox: 406,843,34,40
+channel: 1
+predicted: note_breve
+text_position: 2
+
+object: 70
+bbox: 467,821,38,48
+channel: 1
+predicted: note_semibreve
+text_position: 2.5
+
+object: 71
+bbox: 516,824,35,43
+channel: 1
+predicted: note_semibreve
+text_position: 2.5
+
+object: 72
+bbox: 566,764,37,102
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 73
+bbox: 600,833,17,21
+channel: 1
+predicted: point
+text_position: -1
+
+object: 74
+bbox: 621,754,33,102
+channel: 1
+predicted: note_semiminim_up
+text_position: 3
+
+object: 75
+bbox: 659,796,38,101
+channel: 1
+predicted: note_minim_down
+text_position: 3.5
+
+object: 76
+bbox: 707,780,33,109
+channel: 1
+predicted: note_minim_down
+text_position: 4
+
+object: 77
+bbox: 745,769,37,45
+channel: 1
+predicted: note_semibreve
+text_position: 4.5
+
+object: 78
+bbox: 790,795,36,45
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 79
+bbox: 841,799,16,26
+channel: 1
+predicted: rest_semibreve
+text_position: -1
+
+object: 80
+bbox: 883,807,34,49
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 81
+bbox: 934,794,41,45
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 82
+bbox: 976,809,18,19
+channel: 1
+predicted: point
+text_position: -1
+
+object: 83
+bbox: 995,782,33,108
+channel: 1
+predicted: note_minim_down
+text_position: 4
+
+object: 84
+bbox: 1033,768,39,43
+channel: 1
+predicted: note_semibreve
+text_position: 4.5
+
+object: 85
+bbox: 1080,800,15,30
+channel: 1
+predicted: rest_semibreve
+text_position: -1
+
+object: 86
+bbox: 1113,796,39,44
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 87
+bbox: 1158,769,37,44
+channel: 1
+predicted: note_semibreve
+text_position: 4.5
+
+object: 88
+bbox: 1204,779,35,50
+channel: 1
+predicted: note_semibreve
+text_position: 4
+
+object: 89
+bbox: 1254,799,38,41
+channel: 1
+predicted: note_breve
+text_position: 3.5
+
+object: 90
+bbox: 1320,809,37,49
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 91
+bbox: 1381.33,778.667,85.3367,50.6663
+channel: 1
+predicted: custos
+text_position: 3.5
+
+object: 93
+bbox: 97,986,28,115
+channel: 1
+predicted: clef_c
+text_position: 3
+
+object: 95
+bbox: 125.333,992,24.0003,86.6667
+channel: 1
+predicted: flat
+text_position: 2.5
+
+object: 96
+bbox: 171,1031,15,27
+channel: 1
+predicted: rest_minim
+text_position: -1
+
+object: 97
+bbox: 191,1015,35,44
+channel: 1
+predicted: note_semibreve
+text_position: 3.5
+
+object: 98
+bbox: 228,971,32,100
+channel: 1
+predicted: note_semiminim_up
+text_position: 3
+
+object: 99
+bbox: 261,978,38,105
+channel: 1
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 100
+bbox: 305,1014.67,31,103.33
+channel: 1
+predicted: note_minim_down
+text_position: 3.5
+
+object: 102
+bbox: 335,1026,17,19
+channel: 1
+predicted: point
+text_position: -1
+
+object: 103
+bbox: 351,999,32,110
+channel: 1
+predicted: note_semiminim_down
+text_position: 4
+
+object: 104
+bbox: 385,988,37,44
+channel: 1
+predicted: note_semibreve
+text_position: 4.5
+
+object: 105
+bbox: 422,974,33,47
+channel: 1
+predicted: note_semibreve
+text_position: 5
+
+object: 106
+bbox: 468,1057,15,26
+channel: 1
+predicted: rest_minim
+text_position: -1
+
+object: 107
+bbox: 497,1008,38,104
+channel: 1
+predicted: note_minim_up
+text_position: 1.5
+
+object: 108
+bbox: 540,988,32,108
+channel: 1
+predicted: note_minim_up
+text_position: 2
+
+object: 109
+bbox: 579,978,38,106
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 110
+bbox: 625,989,37,112
+channel: 1
+predicted: note_minim_up
+text_position: 2
+
+object: 111
+bbox: 654,1054,19,20
+channel: 1
+predicted: point
+text_position: -1
+
+object: 112
+bbox: 674,974,38,109
+channel: 1
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 113
+bbox: 717,969,32,101
+channel: 1
+predicted: note_minim_up
+text_position: 3
+
+object: 114
+bbox: 754,964,36,93
+channel: 1
+predicted: note_minim_up
+text_position: 3.5
+
+object: 115
+bbox: 790,1003,37,108
+channel: 1
+predicted: note_minim_up
+text_position: 1.5
+
+object: 116
+bbox: 828,1077,16,20
+channel: 1
+predicted: point
+text_position: -1
+
+object: 117
+bbox: 844,986,33,114
+channel: 1
+predicted: note_semiminim_up
+text_position: 2
+
+object: 118
+bbox: 892,974,39,111
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 119
+bbox: 947,1028,32,47
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 120
+bbox: 995,976,38,107
+channel: 1
+predicted: note_minim_up
+text_position: 2.5
+
+object: 121
+bbox: 1059,1032,35,37
+channel: 1
+predicted: note_breve
+text_position: 3
+
+object: 122
+bbox: 1137,1026,34,47
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 123
+bbox: 1199,1030,33,45
+channel: 1
+predicted: note_semibreve
+text_position: 3
+
+object: 124
+bbox: 1266,1020,36,39
+channel: 1
+predicted: note_breve
+text_position: 3.5
+
+object: 125
+bbox: 1319,1033,39,39
+channel: 1
+predicted: note_breve
+text_position: 3
+
+object: 126
+bbox: 1375,1019,15,43
+channel: 1
+predicted: rest_breve
+text_position: -1
+
+object: 127
+bbox: 1408,988,77.3333,78.6667
+channel: 1
+predicted: custos
+text_position: 3
+
+object: 131
+bbox: 336,1226,58.6667,39
+channel: 2
+predicted: clef_f
+text_position: 4
+
+object: 134
+bbox: 405,1212,26,104
+channel: 2
+predicted: flat
+text_position: 2
+
+object: 135
+bbox: 439,1220,38,102
+channel: 2
+predicted: time_sig_Imincut
+text_position: -1
+
+object: 136
+bbox: 498,1240,15,26
+channel: 2
+predicted: rest_semibreve
+text_position: -1
+
+object: 137
+bbox: 535,1221,33,49
+channel: 2
+predicted: note_semibreve
+text_position: 4
+
+object: 138
+bbox: 582,1221,33,48
+channel: 2
+predicted: note_semibreve
+text_position: 4
+
+object: 139
+bbox: 631,1223,33,47
+channel: 2
+predicted: note_semibreve
+text_position: 4
+
+object: 140
+bbox: 693,1209,33,44
+channel: 2
+predicted: note_breve
+text_position: 4.5
+
+object: 141
+bbox: 749,1221,34,49
+channel: 2
+predicted: note_semibreve
+text_position: 4
+
+object: 142
+bbox: 795,1234.67,35.6667,104.333
+channel: 2
+predicted: note_minim_down
+text_position: 3.5
+
+object: 144
+bbox: 858,1223,36,109
+channel: 2
+predicted: note_minim_down
+text_position: 4
+
+object: 145
+bbox: 916,1200,39,107
+channel: 2
+predicted: note_minim_up
+text_position: 2.5
+
+object: 146
+bbox: 954,1271,19,21
+channel: 2
+predicted: point
+text_position: -1
+
+object: 147
+bbox: 973,1185,34,110
+channel: 2
+predicted: note_semiminim_up
+text_position: 3
+
+object: 148
+bbox: 1016,1236,38,99
+channel: 2
+predicted: note_minim_down
+text_position: 3.5
+
+object: 149
+bbox: 1060,1218,33,52
+channel: 2
+predicted: note_semibreve
+text_position: 4
+
+object: 150
+bbox: 1131,1274,33,49
+channel: 2
+predicted: note_semibreve
+text_position: 2
+
+object: 151
+bbox: 1176,1224,38,113
+channel: 2
+predicted: note_semiminim_up
+text_position: 1.5
+
+object: 152
+bbox: 1219,1235,35,119
+channel: 2
+predicted: note_semiminim_up
+text_position: 1
+
+object: 153
+bbox: 1269,1262,39,49
+channel: 2
+predicted: note_semibreve
+text_position: 2.5
+
+object: 154
+bbox: 1312,1319,38,47
+channel: 2
+predicted: note_semibreve
+text_position: 0.5
+
+object: 155
+bbox: 1345.33,1321.33,17.3367,29.3367
+channel: 2
+predicted: point
+text_position: -1
+
+object: 156
+bbox: 1352,1205.33,40,116.003
+channel: 2
+predicted: note_minim_up
+text_position: 2
+
+object: 157
+bbox: 1402.67,1244,80.0033,78.6667
+channel: 2
+predicted: custos
+text_position: 1.5
+
+object: 159
+bbox: 320,1438,51.9997,37
+channel: 2
+predicted: clef_f
+text_position: 4
+
+object: 162
+bbox: 385,1422,26,102
+channel: 2
+predicted: flat
+text_position: 2
+
+object: 163
+bbox: 432,1440,41,106
+channel: 2
+predicted: note_minim_up
+text_position: 1.5
+
+object: 164
+bbox: 475,1465,37,110
+channel: 2
+predicted: note_minim_up
+text_position: 0.5
+
+object: 165
+bbox: 516,1473,37,46
+channel: 2
+predicted: note_semibreve
+text_position: 2.5
+
+object: 166
+bbox: 574,1488,15,27
+channel: 2
+predicted: rest_minim
+text_position: -1
+
+object: 167
+bbox: 613,1414,38,105
+channel: 2
+predicted: note_minim_up
+text_position: 2.5
+
+object: 168
+bbox: 662,1460,34,48
+channel: 2
+predicted: note_semibreve
+text_position: 3
+
+object: 169
+bbox: 691,1461,17,19
+channel: 2
+predicted: point
+text_position: -1
+
+object: 170
+bbox: 727,1436,35,103
+channel: 2
+predicted: note_minim_down
+text_position: 4
+
+object: 171
+bbox: 756,1435,18,20
+channel: 2
+predicted: point
+text_position: -1
+
+object: 172
+bbox: 770,1448,40,100
+channel: 2
+predicted: note_semiminim_down
+text_position: 3.5
+
+object: 173
+bbox: 820,1401,32,108
+channel: 2
+predicted: note_semiminim_up
+text_position: 3
+
+object: 174
+bbox: 856,1415,38,103
+channel: 2
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 175
+bbox: 911,1462,34,46
+channel: 2
+predicted: note_semibreve
+text_position: 3
+
+object: 176
+bbox: 969.333,1477.33,38.667,42.67
+channel: 2
+predicted: note_breve
+text_position: 2.5
+
+object: 178
+bbox: 1030,1482,35,55
+channel: 2
+predicted: note_semibreve
+text_position: 2
+
+object: 179
+bbox: 1084,1503,40,48
+channel: 2
+predicted: note_semibreve
+text_position: 1.5
+
+object: 180
+bbox: 1143,1491,37,50
+channel: 2
+predicted: note_semibreve
+text_position: 2
+
+object: 181
+bbox: 1193,1477,41,49
+channel: 2
+predicted: note_semibreve
+text_position: 2.5
+
+object: 182
+bbox: 1250,1470,38,45
+channel: 2
+predicted: note_breve
+text_position: 3
+
+object: 183
+bbox: 1311,1493,36,48
+channel: 2
+predicted: note_semibreve
+text_position: 2
+
+object: 184
+bbox: 1360,1493,36,49
+channel: 2
+predicted: note_semibreve
+text_position: 2
+
+object: 185
+bbox: 1412,1457.33,69.3333,72.0033
+channel: 2
+predicted: custos
+text_position: 2
+
+object: 189
+bbox: 97,1651,57.6667,40
+channel: 2
+predicted: clef_f
+text_position: 4
+
+object: 192
+bbox: 157,1645,26,93
+channel: 2
+predicted: flat
+text_position: 2
+
+object: 193
+bbox: 219,1699,31,51
+channel: 2
+predicted: note_semibreve
+text_position: 2
+
+object: 194
+bbox: 245,1699,17,20
+channel: 2
+predicted: point
+text_position: -1
+
+object: 195
+bbox: 271,1628,36,102
+channel: 2
+predicted: note_minim_up
+text_position: 2.5
+
+object: 196
+bbox: 318,1678,30,44
+channel: 2
+predicted: note_semibreve
+text_position: 3
+
+object: 197
+bbox: 340,1683,17,17
+channel: 2
+predicted: point
+text_position: -1
+
+object: 198
+bbox: 352,1632,36,105
+channel: 2
+predicted: note_semiminim_up
+text_position: 2.5
+
+object: 199
+bbox: 391,1643,32,110
+channel: 2
+predicted: note_semiminim_up
+text_position: 2
+
+object: 200
+bbox: 440,1727,37,39
+channel: 2
+predicted: note_breve
+text_position: 1.5
+
+object: 201
+bbox: 505.333,1746.67,18.667,35.9967
+channel: 2
+predicted: rest_semibreve
+text_position: -1
+
+object: 202
+bbox: 537.333,1741.33,46.667,41.3367
+channel: 2
+predicted: note_semibreve
+text_position: 1
+
+object: 203
+bbox: 584,1678.67,40,47.9967
+channel: 2
+predicted: note_semibreve
+text_position: 3
+
+object: 204
+bbox: 638.667,1666.67,37.333,47.9967
+channel: 2
+predicted: note_semibreve
+text_position: 3.5
+
+object: 205
+bbox: 697.333,1684,40.0003,40
+channel: 2
+predicted: note_breve
+text_position: 3
+
+object: 206
+bbox: 758.667,1638.67,18.6663,75.9967
+channel: 2
+predicted: rest_longa
+text_position: -1
+
+object: 207
+bbox: 780,1644,18.6667,68
+channel: 2
+predicted: rest_longa
+text_position: -1
+
+object: 208
+bbox: 802.667,1668,18.6663,49.3333
+channel: 2
+predicted: rest_breve
+text_position: -1
+
+object: 209
+bbox: 858.667,1685.33,35.9997,44.0033
+channel: 2
+predicted: note_semibreve
+text_position: 3
+
+object: 210
+bbox: 921.333,1662.67,48.0003,39.9967
+channel: 2
+predicted: note_breve
+text_position: 4
+
+object: 211
+bbox: 988,1674.67,42.6667,41.33
+channel: 2
+predicted: note_semibreve
+text_position: 3.5
+
+object: 212
+bbox: 1046.67,1689.33,43.9967,34.67
+channel: 2
+predicted: note_breve
+text_position: 3
+
+object: 213
+bbox: 1113.33,1700,41.3367,40
+channel: 2
+predicted: note_breve
+text_position: 2.5
+
+object: 214
+bbox: 1184,1670.67,21.3333,71.9967
+channel: 2
+predicted: rest_longa
+text_position: -1
+
+object: 215
+bbox: 1242.67,1697.33,41.3333,50.67
+channel: 2
+predicted: note_semibreve
+text_position: 2.5
+
+object: 216
+bbox: 1289.33,1696,41.3367,49.3333
+channel: 2
+predicted: note_semibreve
+text_position: 2.5
+
+object: 217
+bbox: 1336,1690.67,48,42.6633
+channel: 2
+predicted: note_breve
+text_position: 3
+
+object: 218
+bbox: 1394.67,1668,81.33,68
+channel: 2
+predicted: custos
+text_position: 2.5
+
