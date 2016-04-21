@@ -9,6 +9,15 @@ The library was released online, and packaged on pypi. Therefore one can easily 
 pip install alamire_of_tamir
 ```
 The dependencies are automatically installed as well.
+## How to find our demo file together with the installation?
+Along with the installation, the demo files are also downloaded. They are inside the library path with the name ".../site-packages/path/alamire_of_tamir/data_alamire/". In Python, this path could be tracked as:
+```python
+import alamire_of_tamir
+import os
+demo_file_path = os.path.dirname(alamire_of_tamir.__file__) + 'data_alamire/demo.annotation'
+```
+Together with the .annotation file, an original image is inside "data_alamire" as well. Interested users could track to the image and visualize. It is gorgeous ;)
+
 # Quick Start Hand-on Commands: Simple Version
 The above command installs our toolbox and its dependencies into the user's default python site-packages. Then s/he can start the transcription in a Python terminal as:
 
@@ -44,3 +53,6 @@ s.write('xml',outfile)
 outmidifile = 'path/to/your/output/midifile.xml'
 s.write('midi", outmidifile)
 ```
+
+# Contact Information
+This toolbox is now under reviewing. THe review process is double blind, therefore the author contact information is removed. We will add the contact information back once the review session is over. Thank you for you attention and patience.
