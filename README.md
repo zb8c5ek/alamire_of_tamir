@@ -55,4 +55,4 @@ s.write('midi", outmidifile)
 ```
 
 # Contact Information
-This toolbox is now under reviewing. THe review process is double blind, therefore the author contact information is removed. We will add the contact information back once the review session is over. Thank you for you attention and patience.
+This toolbox is now under reviewing. The review process is double blind, therefore the author contact information is removed. We will add the contact information back once the review session is over. Thank you for you attention and patience.
