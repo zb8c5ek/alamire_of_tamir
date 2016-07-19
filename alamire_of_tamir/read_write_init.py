@@ -1,5 +1,16 @@
 import music21 as m21
-
+"""
+Xuanli Chen
+PhD student at PSI-VISICS, KU Leuven
+Supervisor: Prof. Luc Van Gool
+Research Domain: Computer Vision, Machine Learning
+Address:
+Kasteelpark Arenberg 10 - bus 2441
+B-3001 Heverlee
+Belgium
+Group website: http://www.esat.kuleuven.be/psi/visics
+LinkedIn: https://be.linkedin.com/in/xuanlichen
+"""
 
 def get_general_text_position(text_position, clef_position=4, clef_sign='F'):
     """
