@@ -17,8 +17,8 @@ setup(name='alamire_of_tamir',
       url='https://github.com/zb8c5ek/alamire_of_tamir',
       keywords='Manuscript Transcription, Alamire, TAMIR',
 
-      author='RemovedAuthorInformationDueToDoubleBlindReview',
-      author_email='RemovedAuthorContactDueToDoubleBlindReview',
+      author='Xuanli Chen',
+      author_email='xuanli.chen@esat.kuleuven.be',
       license='MIT',
       classifiers=[
           'License :: OSI Approved :: MIT License',
