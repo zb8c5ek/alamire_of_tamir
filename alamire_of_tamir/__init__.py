@@ -1,6 +1,16 @@
 """
-    Contact Information of author is REMOVED due to double blind Review. They will be added back after review session!
-    Thank you for your attention and patience!
+Xuanli Chen
+PhD student at PSI-VISICS, KU Leuven
+Supervisor: Prof. Luc Van Gool
+Research Domain: Computer Vision, Machine Learning
+
+Address:
+Kasteelpark Arenberg 10 - bus 2441
+B-3001 Heverlee
+Belgium
+
+Group website: http://www.esat.kuleuven.be/psi/visics
+LinkedIn: https://be.linkedin.com/in/xuanlichen
 """
 from script_translation import script_transcription
 
