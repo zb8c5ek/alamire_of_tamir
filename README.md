@@ -55,7 +55,7 @@ s.show()
 outfile = 'path/to/your/output/file.xml'  
 s.write('xml',outfile)
 #   To generate the MIDI performance, do this:
-outmidifile = 'path/to/your/output/midifile.xml'
+outmidifile = 'path/to/your/output/midifile.mid'
 s.write('midi", outmidifile)
 ```
 
