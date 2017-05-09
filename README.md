@@ -19,7 +19,7 @@ Along with the installation, the demo files are also downloaded. They are inside
 ```python
 import alamire_of_tamir
 import os
-demo_file_path = os.path.dirname(alamire_of_tamir.__file__) + 'data_alamire/demo.annotation'
+demo_file_path = os.path.dirname(alamire_of_tamir.__file__) + '/data_alamire/demo.annotation'
 ```
 Together with the .annotation file, an original image is inside "data_alamire" as well. Interested users could track to the image and visualize. It is gorgeous ;)
 
